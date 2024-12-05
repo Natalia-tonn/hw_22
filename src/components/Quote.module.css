@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+.quoteContainer {
+    margin: 20px 0;
+}
+
+.quoteText {
+    font-size: 24px;
+    font-style: italic;
+}
+
+.author {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: rgb(159, 188, 232);
+    border: none;
+    border-radius: 4px;
+}
+
+  
